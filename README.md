@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 You're looking at my portfolio.
 
 <!--
 **randipsbh/randipsbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
